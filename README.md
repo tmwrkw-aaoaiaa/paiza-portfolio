@@ -55,3 +55,11 @@ LaTeX, Python, MATLAB, R, ArcGIS Pro, GitHub,beamer
 - 機械学習演習全問正解中
 - 毎日NHK英会話講座を聞いてシャドーイング(中高時代)
 
+## 語学・技術への興味
+- ボーカロイドを通じて機械音声やCGに興味を持つ
+- 小説好き・探査機好きが転じてwikipediaや取扱説明書, 技術文書を熟読
+- NLPの課外講義をきっかけにPython文字列処理やQiitaを読み始める
+- 中国ドラマを中国語音声・英語字幕で視聴
+- NASAのニュースを英語で読む
+- 原神をMacで動作させる過程でHomebrew、PlayCover、VSCodeなどに触れ、その後GitHub・LaTeX・Python・MATLABの学習へ発展　
+
