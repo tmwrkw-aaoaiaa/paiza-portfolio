@@ -45,3 +45,5 @@ LaTeX, Python, MATLAB, R, ArcGIS Pro, GitHub,beamer
 ## 継続力
 - mikan「金のフレーズ」2周目
 - 機械学習演習全問正解中
+- 毎日NHK英会話講座を聞いてシャドーイング(中高時代)
+  
