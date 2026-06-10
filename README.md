@@ -59,8 +59,9 @@ LaTeX, Python, MATLAB, R, ArcGIS Pro, GitHub,beamer
 - ボーカロイドを通じて機械音声やCGに興味を持つ
 - 映画はやぶさをみて探査機のスイングバイ機動計算をする人に憧れる
 - 受験数学のパラメータ表示/グラフ書き/複素関数にはまり, データ分析やTikZにハマる
-- 小説好き・探査機好きが転じてwikipediaや取扱説明書, 技術文書を熟読
+- スマートフォンに憧れandroid studioをさわる
 - NLPの課外講義をきっかけにPython文字列処理やQiitaを読み始める
+- 小説好き・探査機好きが転じてwikipediaや取扱説明書, 技術文書を熟読
 - 中国ドラマを中国語音声・英語字幕で視聴
 - NASAのニュースを英語で読む
 - 原神をMacで動作させる過程でHomebrew、PlayCover、VSCodeなどに触れ、その後GitHub・LaTeX・Python・MATLABの学習へ発展
