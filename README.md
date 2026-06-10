@@ -61,5 +61,6 @@ LaTeX, Python, MATLAB, R, ArcGIS Pro, GitHub,beamer
 - NLPの課外講義をきっかけにPython文字列処理やQiitaを読み始める
 - 中国ドラマを中国語音声・英語字幕で視聴
 - NASAのニュースを英語で読む
-- 原神をMacで動作させる過程でHomebrew、PlayCover、VSCodeなどに触れ、その後GitHub・LaTeX・Python・MATLABの学習へ発展　
+- 原神をMacで動作させる過程でHomebrew、PlayCover、VSCodeなどに触れ、その後GitHub・LaTeX・Python・MATLABの学習へ発展
+- セキュリティ学習のためにVirtualBoxを導入し、検証環境の構築を試みた
 
