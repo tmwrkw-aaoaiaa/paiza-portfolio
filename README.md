@@ -24,7 +24,7 @@ LaTeX, Python, MATLAB, R, ArcGIS Pro, GitHub,beamer
 
 
 ## 英語での問題解決
-- Simulink演習中、英語でサポートへ問い合わせ
+- Simulink演習中に問題が発生し、AIでもGoogleでも解決できなかったので英語でサポートに問い合わせ
 - LinkedInアカウント問題について英語でサポートへ連絡
 - LinkedInで英語投稿
 - 国際寮にて、誤って他者の食材を使用してしまった際、代替品を購入し英語で謝罪メモを作成  
